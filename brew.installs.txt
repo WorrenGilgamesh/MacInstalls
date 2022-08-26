@@ -1,0 +1,7 @@
+deno
+fish
+gh
+ghq
+ncurses
+pcre2
+ peco
